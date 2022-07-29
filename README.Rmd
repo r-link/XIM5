@@ -1,0 +1,14 @@
+---
+title: "XIM5 materials"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+This is the public repository for the [fifth Xylem International Meeting](https://xim5.de/) in Würzburg, Germany.
+
+
+![](materials/logo.png)
